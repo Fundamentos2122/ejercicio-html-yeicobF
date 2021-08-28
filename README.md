@@ -4,6 +4,8 @@ En este repositorio se encontrará un ejercicio que nos pondrá el profesor en l
 clase del Viernes, 27 de AGOSTO.
 
 > Subirá el ejercicio a las 6 PM, y se podrá entregar hasta las 11:59 PM.
+>
+> **Ejercicio terminado**: 8 PM
 
 ## INSTRUCCIONES
 
@@ -12,11 +14,11 @@ Crear dos páginas siguiendo las imágenes adjuntas:
 1. Login con formulario básico (poner campos de nombre de usuario y contraseña
    como requeridos)
 
-![Login con formulario básico / Imágenes adjuntas](RequerimientosEjercicio/Referencia_Login.jpg "Login con formulario básico / Imágenes adjuntas")
+   ![Login con formulario básico / Imágenes adjuntas](RequerimientosEjercicio/Referencia_Login.jpg "Login con formulario básico / Imágenes adjuntas")
 
 2. Tabla con mezcla de renglones y columnas
 
-![Tabla con mezcla de renglones y columnas / Imágenes adjuntas](RequerimientosEjercicio/Referencia_Tabla.jpg "Tabla con mezcla de renglones y columnas / Imágenes adjuntas")
+   ![Tabla con mezcla de renglones y columnas / Imágenes adjuntas](RequerimientosEjercicio/Referencia_Tabla.jpg "Tabla con mezcla de renglones y columnas / Imágenes adjuntas")
 
 Para la segunda pantalla pegar en siguiente código en el HEAD para que se puedan
 visualizar los bordes de la tabla y ver que efectivamente se hizo bien
