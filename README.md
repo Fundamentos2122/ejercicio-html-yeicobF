@@ -32,8 +32,9 @@ visualizar los bordes de la tabla y ver que efectivamente se hizo bien
 </style>
 ```
 
-Subir el código al repositorio (link en la clase de ayer) Subir aquí una captura
-de su repositorio con el último commit
+Subir el código al repositorio (link en la clase de ayer)
+
+Subir aquí una captura de su repositorio con el último commit
 
 ## RESULTADOS
 
@@ -45,4 +46,6 @@ de su repositorio con el último commit
 ![Login llenado 2](ImagenesResultados/login/login-llenado_2.png "Login llenado 2")
 ![Login llenado 3](ImagenesResultados/login/login-llenado_3.png "Login llenado 3")
 
-2.
+2. Tabla con mezcla de renglones y columnas
+
+![Tabla terminada 1](ImagenesResultados/tabla/tabla-terminada_1.jpeg "Tabla terminada 1")
