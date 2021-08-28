@@ -41,11 +41,19 @@ Subir aquí una captura de su repositorio con el último commit
 1. Login con formulario básico (poner campos de nombre de usuario y contraseña
    como requeridos)
 
-![Login sin llenar](ImagenesResultados/login/login-sin-llenar.png "Login sin llenar")
-![Login llenado 1](ImagenesResultados/login/login-llenado_1.png "Login llenado 1")
-![Login llenado 2](ImagenesResultados/login/login-llenado_2.png "Login llenado 2")
-![Login llenado 3](ImagenesResultados/login/login-llenado_3.png "Login llenado 3")
+   ![Login sin llenar](ImagenesResultados/login/login-sin-llenar.png "Login sin llenar")
+   ![Login llenado 1](ImagenesResultados/login/login-llenado_1.png "Login llenado 1")
+   ![Login llenado 2](ImagenesResultados/login/login-llenado_2.png "Login llenado 2")
+   ![Login llenado 3](ImagenesResultados/login/login-llenado_3.png "Login llenado 3")
 
 2. Tabla con mezcla de renglones y columnas
 
-![Tabla terminada 1](ImagenesResultados/tabla/tabla-terminada_1.jpeg "Tabla terminada 1")
+   Esta era la tabla que terminé inicialmente:
+
+   ![Tabla terminada 1 - Solo la tabla](ImagenesResultados/tabla/tabla-terminada_1.jpeg "Tabla terminada 1 - Solo la tabla")
+
+   Después agregué los demás elementos y la terminé en su totalidad.
+
+   ![Tabla terminada con todos los elementos 1](ImagenesResultados/tabla/tabla-terminada-todos-los-elementos_1.jpeg "Tabla terminada con todos los elementos 1")
+   ![Tabla terminada con todos los elementos 2](ImagenesResultados/tabla/tabla-terminada-todos-los-elementos_2.jpeg "Tabla terminada con todos los elementos 2")
+   ![Tabla terminada con todos los elementos 3](ImagenesResultados/tabla/tabla-terminada-todos-los-elementos_3.jpeg "Tabla terminada con todos los elementos 3")

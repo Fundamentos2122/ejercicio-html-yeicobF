@@ -18,6 +18,16 @@
         border: solid 1px black;
       }
 
+      body {
+        /*
+          De esta forma se centra todo el contenido del body. Además, se adapta
+          al tamaño de la ventana.
+        */
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+      }
+
     </style>
   </head>
 
@@ -25,8 +35,18 @@
     <!-- <img src="uaslp-logo.jpg" alt="Logo UASLP"> -->
 
     <table>
-      <caption>Horario de Clases</caption>
+      <!-- <caption>Horario de Clases</caption> -->
       <thead>
+        <tr>
+          <th colspan="6">
+            <img src="uaslp-logo.jpg" alt="Logo UASLP">
+            <br>
+            <br>
+            Horario de Clases
+            <br>
+            <br>
+          </th>
+        </tr>
         <tr>
           <th>Hora</th>
           <th>LUNES</th>
@@ -110,10 +130,10 @@
           <td></td>
         </tr>
 
-
       </tbody>
     </table>
 
+    <a href="#">Cerrar sesión</a>
   </body>
 
 </html>
